@@ -1,2 +1,2 @@
 # cool-python-having-fun
-Learning Python and having fun doing it!!!
+Honing my skills in Python and having fun doing it!!!
